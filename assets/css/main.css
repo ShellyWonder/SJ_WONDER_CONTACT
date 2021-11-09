@@ -3751,6 +3751,9 @@ body.is-preload #banner > .inner {
 #contact > .inner > .split > :first-child:before {
   display: none;
 }
+#myFile {
+  margin-top: 25px;
+}
 
 @media screen and (max-width: 980px) {
   #contact > .inner {
